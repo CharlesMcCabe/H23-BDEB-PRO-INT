@@ -2,4 +2,4 @@
 ## allo
 # aaaaaaaaaa
 
-<img src=shrek.jpg" alt="shrek">
+<img src="shrek.jpg" alt="shrek">
